@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Oliver Wu, nice to meet you!
+
+Personal website: https://oliverwu.top
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverWu515&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
